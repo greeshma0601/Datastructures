@@ -1,3 +1,7 @@
+//COUNT THE NO. OF OCCURRENCES OF CHARACTER THEN PRINT THE COUNT AND THEN CHARACTER.
+
+//Also, using stack might be a good idea!
+
 /*
 Easy string Submissions: 2436   Accuracy: 36.34%   Difficulty: Easy   Marks: 2
      
